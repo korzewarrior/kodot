@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://Kodotengine.org">
-    <img src="logo_outlined.svg" width="400" alt="Kodot Engine logo">
+    <img src="kodot.jpg" width="400" alt="Kodot Engine logo">
   </a>
 </p>
 
